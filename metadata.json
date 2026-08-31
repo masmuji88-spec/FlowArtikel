@@ -1,0 +1,6 @@
+{
+  "name": "FlowArticle - AI Article Generator with Agent Flow",
+  "description": "Generator artikel AI canggih dengan pipeline Agent Instructions bergaya Google Flow yang mendukung Gemini & ChatGPT untuk pembuatan konten komprehensif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
